@@ -12,7 +12,7 @@ Um sistema de gerenciamento de tarefas desenvolvido em Java com funcionalidades 
 
 ### 🔍 Gerenciamento e Filtragem
 - Listagem completa de todas as tarefas
-- Filtragem por status (Pendente, Em andamento, Concluído)
+- Filtragem por status (Pendente, Em andamento, Bloqueado e Concluído)
 - Ordenação por data limite
 - Visualização organizada das tarefas
 
